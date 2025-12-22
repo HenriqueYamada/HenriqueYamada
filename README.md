@@ -50,6 +50,8 @@ Sou apaixonado por tecnologia e crio alguns projetos para demonstrar esse amor e
 
 </p>
 
+![Snake animation](https://github.com/HenriqueYamada/HenriqueYamada/blob/output/github-contribution-grid-snake.svg)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YourUser/YourUser/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YourUser/YourUser/output/github-contribution-grid-snake.svg">
