@@ -49,3 +49,5 @@ Sou apaixonado por tecnologia e crio alguns projetos para demonstrar esse amor e
   />
 
 </p>
+
+  ![Snake animation](https://github.com/HenriqueYamada/HenriqueYamada/blob/output/github-contribuition-grid-snake.svg)
