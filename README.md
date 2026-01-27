@@ -4,8 +4,6 @@
 
 Olá! Me chamo Henrique Yuji Yamada, tenho 17 anos, nascido em Kani-chi, Japão, mas morando agora em Assis, SP. Concluí o ensino médio na ETEC Pedro D'Arcadia Neto, com o curso Matemática e Suas Tecnologias. Atualmente, estudo Ciência da Computação na FEMA. 
 
-Sou apaixonado por tecnologia e crio alguns projetos para demonstrar esse amor e estudando as bases do front-end e evoluindo sempre!
-
 ---
 
 ### Linguagens e Tecnologias
