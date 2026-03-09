@@ -30,42 +30,16 @@ Sou um desenvolvedor **Front-End** em formação, apaixonado por desenvolver pro
 
 ---
 
-## 📊 GitHub Stats
+##  Status GitHub
 
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
 </p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
 
 ## Contato
-
-<p align="left">
-  <a href="https://github.com/HenriqueYamada">
-    <img src="https://img.shields.io/badge/GitHub-HenriqueYamada-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://instagram.com/oreidosites">
-    <img src="https://img.shields.io/badge/Instagram-@henriqueyamada_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/@oreidosites">
-    <img src="https://img.shields.io/badge/YouTube-O%20REI%20DO%20SITES-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-</p>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-yuji-yamada-41302b3a2/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henriqueyamada01@gmail.com)
@@ -73,17 +47,10 @@ Sou um desenvolvedor **Front-End** em formação, apaixonado por desenvolver pro
 
 ---
 
+## Filosofia
 
+> _"Em programação, a parte difícil não é resolver problemas, mas decidir quais problemas resolver."_ — Paul Graham
 
+> _"A simplicidade é o último grau de sofisticação."_ — Leonardo da Vinci
 
----
-
-## 🚀 Philosophy
-
-> _"Code is not just about solving problems.  
-> It's about building solutions that scale, last, and generate real value."_
-
----
-
-⭐ If you like my work, consider starring a repository  
-🤝 Always open to collaborations, partnerships, and cool ideas
+> _"Qualquer tolo consegue escrever código que um computador entenda. Bons programadores escrevem código que humanos entendam."_ — Martin Fowler
