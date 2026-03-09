@@ -26,6 +26,7 @@ Sou um desenvolvedor **Front-End** em formação, apaixonado por desenvolver pro
 - Figma
 - Git e Github
 - C++
+- Aprofundar conhecimentos em IA
 
 ---
 
@@ -52,22 +53,23 @@ Sou um desenvolvedor **Front-End** em formação, apaixonado por desenvolver pro
 
 
 
-## 🌐 Where to find me
+## Contato
 
 <p align="left">
-  <a href="https://github.com/herbertcarnaubadesouza">
-    <img src="https://img.shields.io/badge/GitHub-HERBERTCARNAUBADESOUZA-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/HenriqueYamada">
+    <img src="https://img.shields.io/badge/GitHub-HenriqueYamada-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://instagram.com/oreidosites">
-    <img src="https://img.shields.io/badge/Instagram-@OREIDOSITES-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.tiktok.com/@oreidosites">
-    <img src="https://img.shields.io/badge/TikTok-@OREIDOSITES-000000?style=for-the-badge&logo=tiktok" />
+    <img src="https://img.shields.io/badge/Instagram-@henriqueyamada_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/@oreidosites">
     <img src="https://img.shields.io/badge/YouTube-O%20REI%20DO%20SITES-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-yuji-yamada-41302b3a2/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henriqueyamada01@gmail.com)
+[![Github](https://img.shields.io/badge/-Github-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HenriqueYamada)
 
 ---
 
