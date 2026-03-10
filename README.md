@@ -39,7 +39,7 @@ Sou um desenvolvedor **Front-End** em formação, apaixonado por desenvolver pro
 
 ---
 
-## Contato
+## Contatos
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-yuji-yamada-41302b3a2/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henriqueyamada01@gmail.com)
@@ -47,7 +47,7 @@ Sou um desenvolvedor **Front-End** em formação, apaixonado por desenvolver pro
 
 ---
 
-## Filosofia
+## Filosofias
 
 > _"Em programação, a parte difícil não é resolver problemas, mas decidir quais problemas resolver."_ — Paul Graham
 
