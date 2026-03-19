@@ -2,6 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Olá%2C+eu+sou+o+Henrique!;Desenvolvedor+Front-End+em+formação!" alt="Typing SVG">
 </p>
 
+<p align="flex-start">
+  <img src="https://komarev.com/ghpvc/?username=HenriqueYamada&style=flat-square&color=36BCF7" alt="Profile views" />
+</p>
+
 ## Sobre mim
 
 Olá! Me chamo **Henrique Yuji Yamada** e tenho 18 anos. Nasci no Japão, em Kani-Chi, na província de Gifu, mas atualmente morando no Brasil, em Assis, São Paulo há 14 anos.
@@ -33,8 +37,8 @@ Sou um desenvolvedor **Front-End** em formação, apaixonado por desenvolver pro
 ##  Status GitHub
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HenriqueYamada&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueYamada&layout=compact&theme=tokyonight" />
 </p>
 
 ---
