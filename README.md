@@ -28,7 +28,7 @@ Sou um desenvolvedor **Front-End** em formação, apaixonado por desenvolver pro
 - JavaScript
 - React
 - Tailwind css
-- Figma
+- UI/UX (Figma)
 - Git e Github
 - C++
 - Aprofundar conhecimentos em IA
