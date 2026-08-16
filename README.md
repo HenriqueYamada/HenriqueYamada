@@ -1,61 +1,240 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Olá%2C+eu+sou+o+Henrique!;Desenvolvedor+Front-End+em+formação!" alt="Typing SVG">
-</p>
+<div align="center">
 
-<p align="flex-start">
-  <img src="https://komarev.com/ghpvc/?username=HenriqueYamada&style=flat-square&color=36BCF7" alt="Profile views" />
-</p>
+<sub>♪ PLAYING NOW</sub>
 
-## Sobre mim
+</div>
 
-Olá! Me chamo **Henrique Yuji Yamada** e tenho 18 anos. Nasci no Japão, em Kani-Chi, na província de Gifu, mas atualmente morando no Brasil, em Assis, São Paulo há 14 anos.
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
 
-Concluí meu ensino médio na **ETEC Pedro D'Arcádia Neto**, no ensino médio focado em **Matemática e Suas Tecnologias** e atualmente estudo na **FEMA** (Fundação Educacional Municipal de Assis) fazendo o curso de **Ciência da Computação**, e estou no meu primeiro ano.
+<h1>Henrique <span style="color:#E8A33D">Yuji Yamada</span></h1>
 
-Sou um desenvolvedor **Front-End** em formação, apaixonado por desenvolver projetos e fazer de sonhos uma realidade!
+<code>FRONT-END DEVELOPER &lt;/&gt;</code>
+
+<br><br>
+
+<i>"Escrevendo código como quem compõe uma boa música."</i>
+
+<br><br>
+
+📍 Assis, SP • 🎂 18 anos • 🎓 Ciência da Computação — FEMA
+
+<br><br>
+
+<table>
+<tr><td>
+
+**The Script — Hall of Fame**
+`━━━━━━━━●━━━━━━━━━━━━━━━━━━━━` `1:28 / 3:22`
+
+`⏮ ⏯ ⏭ 🔀 🔁`
+<sub>*controles ilustrativos — este é um player visual, não funcional (README não executa JS)*</sub>
+
+</td></tr>
+</table>
+
+</td>
+<td width="40%" align="center" valign="top">
+
+<img src="YOUR_PROFILE_IMAGE_URL" width="170" height="170" style="border-radius:50%;border:3px solid #E8A33D;object-fit:cover;" alt="Henrique Yuji Yamada"/>
+
+<br><br>
+
+<img src="YOUR_GUITAR_IMAGE_URL" width="220" alt="Gibson Les Paul sunburst"/>
+<br><sub>Gibson Les Paul • sunburst</sub>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="./assets/waveform.svg" width="100%" alt="waveform"/>
+</div>
+
+<br>
 
 ---
 
-## Tecnologias
+## 🎙️ SOBRE MIM
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+<img align="right" width="140" src="https://raw.githubusercontent.com/github/explore/main/topics/music/music.png" alt="" style="opacity:0.15;"/>
 
----
+Olá! Me chamo **Henrique Yuji Yamada** e tenho 18 anos. Nasci no Japão, em **Kani-Chi**, na província de **Gifu**, mas atualmente moro no Brasil, em **Assis, São Paulo**, há 14 anos.
 
-## Metas de aprendizagem para 2026
-- JavaScript
-- React
-- Tailwind css
-- UI/UX (Figma)
-- Git e Github
-- C++
-- Aprofundar conhecimentos em IA
+Concluí meu ensino médio na **ETEC Pedro D'Arcádia Neto**, com foco em **Matemática e Suas Tecnologias**, e atualmente estudo na **FEMA** (Fundação Educacional Municipal de Assis), cursando **Ciência da Computação** — estou no meu primeiro ano.
 
----
+Sou um desenvolvedor **Front-End** em formação, apaixonado por transformar ideias em projetos reais — e, futuramente, pretendo ampliar minha atuação para **Full-Stack**.
 
-##  Status GitHub
+<br>
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HenriqueYamada&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueYamada&layout=compact&theme=tokyonight" />
+<img src="https://img.shields.io/badge/🎸_Guitarrista-0D0C0B?style=for-the-badge&labelColor=0D0C0B&color=1a1512" height="30"/>
+<img src="https://img.shields.io/badge/📖_Leitor-0D0C0B?style=for-the-badge&labelColor=0D0C0B&color=1a1512" height="30"/>
+<img src="https://img.shields.io/badge/🎮_Gamer-0D0C0B?style=for-the-badge&labelColor=0D0C0B&color=1a1512" height="30"/>
+<img src="https://img.shields.io/badge/☕_Coffee_Lover-0D0C0B?style=for-the-badge&labelColor=0D0C0B&color=1a1512" height="30"/>
 </p>
 
 ---
 
-## Contatos
+## ⚡ SKILLS
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-yuji-yamada-41302b3a2/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henriqueyamada01@gmail.com)
-[![Github](https://img.shields.io/badge/-Github-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HenriqueYamada)
+<table width="100%">
+<tr>
+<td valign="top" width="25%">
+
+**`</>` Front-End**
+
+<img src="https://img.shields.io/badge/HTML5-E8A33D?style=flat-square&logo=html5&logoColor=0D0C0B"/><br>
+<img src="https://img.shields.io/badge/CSS3-E8A33D?style=flat-square&logo=css3&logoColor=0D0C0B"/><br>
+<img src="https://img.shields.io/badge/Tailwind_CSS-E8A33D?style=flat-square&logo=tailwindcss&logoColor=0D0C0B"/><br>
+<img src="https://img.shields.io/badge/JavaScript-E8A33D?style=flat-square&logo=javascript&logoColor=0D0C0B"/><br>
+<img src="https://img.shields.io/badge/React-E8A33D?style=flat-square&logo=react&logoColor=0D0C0B"/>
+
+</td>
+<td valign="top" width="25%">
+
+**🗄 Back-End**
+
+<img src="https://img.shields.io/badge/PHP-E8A33D?style=flat-square&logo=php&logoColor=0D0C0B"/><br>
+<img src="https://img.shields.io/badge/Laravel-E8A33D?style=flat-square&logo=laravel&logoColor=0D0C0B"/><br>
+<img src="https://img.shields.io/badge/Filament-E8A33D?style=flat-square&logo=laravel&logoColor=0D0C0B"/>
+
+**⇄ Full-Stack**
+
+<img src="https://img.shields.io/badge/TypeScript-E8A33D?style=flat-square&logo=typescript&logoColor=0D0C0B"/>
+
+</td>
+<td valign="top" width="25%">
+
+**🗃 Banco de Dados**
+
+<img src="https://img.shields.io/badge/MySQL-E8A33D?style=flat-square&logo=mysql&logoColor=0D0C0B"/><br>
+<img src="https://img.shields.io/badge/SQL-E8A33D?style=flat-square&logo=databricks&logoColor=0D0C0B"/>
+
+</td>
+<td valign="top" width="25%">
+
+**🛠 Ferramentas**
+
+<img src="https://img.shields.io/badge/Git-E8A33D?style=flat-square&logo=git&logoColor=0D0C0B"/><br>
+<img src="https://img.shields.io/badge/GitHub-E8A33D?style=flat-square&logo=github&logoColor=0D0C0B"/><br>
+<img src="https://img.shields.io/badge/Figma-E8A33D?style=flat-square&logo=figma&logoColor=0D0C0B"/><br>
+<img src="https://img.shields.io/badge/Docker-E8A33D?style=flat-square&logo=docker&logoColor=0D0C0B"/><br>
+<img src="https://img.shields.io/badge/VS_Code-E8A33D?style=flat-square&logo=visualstudiocode&logoColor=0D0C0B"/>
+
+</td>
+</tr>
+</table>
+
+<sub>💡 *Nota técnica: mantive o **TypeScript** em "Full-Stack" porque, sendo um superset do JavaScript, ele é amplamente usado tanto no front-end (React/Next.js) quanto no back-end (Node.js) — por isso não se encaixa exclusivamente em nenhuma das outras duas categorias.*</sub>
 
 ---
 
-## Filosofias
+## 🎧 PROJETOS EM DESTAQUE
 
-> _"Em programação, a parte difícil não é resolver problemas, mas decidir quais problemas resolver."_ — Paul Graham
+<table width="100%">
+<tr>
+<td width="33%">
+<img src="YOUR_AVALLI_IMAGE_URL" width="100%"/>
 
-> _"A simplicidade é o último grau de sofisticação."_ — Leonardo da Vinci
+**Avalli**
+Plataforma desenvolvida com Laravel, Filament e Tailwind CSS.
 
-> _"Qualquer tolo consegue escrever código que um computador entenda. Bons programadores escrevem código que humanos entendam."_ — Martin Fowler
+`Laravel` `Filament` `Tailwind CSS`
+
+[🔗 Ver projeto](YOUR_PROJECT_URL) · [💻 Repositório](YOUR_REPO_URL)
+
+</td>
+<td width="33%">
+<img src="YOUR_FHD_MUSIC_IMAGE_URL" width="100%"/>
+
+**FHD Music**
+Site institucional para uma escola de música.
+
+`[TODO: inserir stack]`
+
+[🔗 Ver projeto](YOUR_PROJECT_URL) · [💻 Repositório](YOUR_REPO_URL)
+
+</td>
+<td width="33%">
+<img src="YOUR_JORNADA_VIAGENS_IMAGE_URL" width="100%"/>
+
+**Jornada Viagens**
+Site para agência de viagens com foco em experiência visual e design responsivo.
+
+`[TODO: inserir stack]`
+
+[🔗 Ver projeto](YOUR_PROJECT_URL) · [💻 Repositório](YOUR_REPO_URL)
+
+</td>
+</tr>
+<tr>
+<td width="33%">
+<img src="YOUR_CARTAS_DISCERSADAS_IMAGE_URL" width="100%"/>
+
+**Cartas Discersadas**
+Projeto pessoal relacionado a cartas/mensagens.
+
+`[TODO: inserir stack]`
+
+[🔗 Ver projeto](YOUR_PROJECT_URL) · [💻 Repositório](YOUR_REPO_URL)
+
+</td>
+<td width="33%">
+<img src="YOUR_SORVETERIA_DELICIA_IMAGE_URL" width="100%"/>
+
+**Sorveteria Delícia**
+Projeto de site para sorveteria.
+
+`[TODO: inserir stack]`
+
+[🔗 Ver projeto](YOUR_PROJECT_URL) · [💻 Repositório](YOUR_REPO_URL)
+
+</td>
+<td width="33%">
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GITHUB STATS
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HenriqueYamada&show_icons=true&count_private=true&bg_color=0D0C0B&title_color=E8A33D&icon_color=E8A33D&text_color=C9C9C9&border_color=2B2118&hide_border=false" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueYamada&layout=compact&bg_color=0D0C0B&title_color=E8A33D&text_color=C9C9C9&border_color=2B2118&hide_border=false" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HenriqueYamada&bg_color=0D0C0B&color=E8A33D&line=E8A33D&point=FFFFFF&area=true&area_color=E8A33D&title_color=E8A33D&hide_border=true" width="100%"/>
+</p>
+
+<sub>Substitua `HenriqueYamada` pelo seu usuário real do GitHub em todas as URLs acima.</sub>
+
+---
+
+## 🐍 CONTRIBUTION SNAKE
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HenriqueYamada/HenriqueYamada/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake"/>
+</p>
+
+<sub>Gerada automaticamente via GitHub Actions — veja a seção de configuração abaixo.</sub>
+
+---
+
+<div align="center">
+
+> *"Assim como uma boa música, um bom projeto precisa de harmonia, estrutura e propósito."*
+
+**Vamos construir algo incrível juntos?**
+
+[![GitHub](https://img.shields.io/badge/GitHub-0D0C0B?style=for-the-badge&logo=github&logoColor=E8A33D)](https://github.com/YOUR_GITHUB_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0C0B?style=for-the-badge&logo=linkedin&logoColor=E8A33D)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-0D0C0B?style=for-the-badge&logo=gmail&logoColor=E8A33D)](mailto:YOUR_EMAIL_HERE)
+
+**Keep coding. Keep rocking. 🎸**
+
+</div>
