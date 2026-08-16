@@ -1,0 +1,61 @@
+<svg viewBox="0 0 600 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="amberBar" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#F3B65E"/>
+      <stop offset="100%" stop-color="#C97C1F"/>
+    </linearGradient>
+  </defs>
+  <!-- 40 barras de equalizador com animação SMIL nativa (sem JavaScript) -->
+  <g fill="url(#amberBar)">
+    <rect x="0" y="35" width="10" height="10" rx="2"><animate attributeName="height" values="10;55;18;40;10" dur="1.1s" repeatCount="indefinite"/><animate attributeName="y" values="35;12;31;20;35" dur="1.1s" repeatCount="indefinite"/></rect>
+    <rect x="15" y="25" width="10" height="30" rx="2"><animate attributeName="height" values="30;12;50;22;30" dur="1.3s" repeatCount="indefinite"/><animate attributeName="y" values="25;34;15;29;25" dur="1.3s" repeatCount="indefinite"/></rect>
+    <rect x="30" y="15" width="10" height="50" rx="2"><animate attributeName="height" values="50;20;35;60;50" dur="0.9s" repeatCount="indefinite"/><animate attributeName="y" values="15;30;22;10;15" dur="0.9s" repeatCount="indefinite"/></rect>
+    <rect x="45" y="30" width="10" height="20" rx="2"><animate attributeName="height" values="20;45;15;38;20" dur="1.2s" repeatCount="indefinite"/><animate attributeName="y" values="30;17;32;21;30" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="60" y="10" width="10" height="60" rx="2"><animate attributeName="height" values="60;25;45;15;60" dur="1.0s" repeatCount="indefinite"/><animate attributeName="y" values="10;27;17;32;10" dur="1.0s" repeatCount="indefinite"/></rect>
+    <rect x="75" y="28" width="10" height="24" rx="2"><animate attributeName="height" values="24;50;18;36;24" dur="1.4s" repeatCount="indefinite"/><animate attributeName="y" values="28;15;31;22;28" dur="1.4s" repeatCount="indefinite"/></rect>
+    <rect x="90" y="20" width="10" height="40" rx="2"><animate attributeName="height" values="40;15;55;25;40" dur="1.05s" repeatCount="indefinite"/><animate attributeName="y" values="20;32;12;27;20" dur="1.05s" repeatCount="indefinite"/></rect>
+    <rect x="105" y="32" width="10" height="16" rx="2"><animate attributeName="height" values="16;42;22;50;16" dur="1.25s" repeatCount="indefinite"/><animate attributeName="y" values="32;19;29;15;32" dur="1.25s" repeatCount="indefinite"/></rect>
+    <rect x="120" y="18" width="10" height="44" rx="2"><animate attributeName="height" values="44;60;20;35;44" dur="0.95s" repeatCount="indefinite"/><animate attributeName="y" values="18;10;30;22;18" dur="0.95s" repeatCount="indefinite"/></rect>
+    <rect x="135" y="26" width="10" height="28" rx="2"><animate attributeName="height" values="28;12;48;20;28" dur="1.15s" repeatCount="indefinite"/><animate attributeName="y" values="26;34;16;30;26" dur="1.15s" repeatCount="indefinite"/></rect>
+  </g>
+  <!-- padrão se repete horizontalmente ao longo da largura -->
+  <g fill="url(#amberBar)" transform="translate(150,0)">
+    <use xlink:href="#" x="0"/>
+  </g>
+  <g fill="url(#amberBar)" transform="translate(150,0)">
+    <rect x="0" y="35" width="10" height="10" rx="2"><animate attributeName="height" values="10;55;18;40;10" dur="1.05s" repeatCount="indefinite"/><animate attributeName="y" values="35;12;31;20;35" dur="1.05s" repeatCount="indefinite"/></rect>
+    <rect x="15" y="25" width="10" height="30" rx="2"><animate attributeName="height" values="30;12;50;22;30" dur="1.25s" repeatCount="indefinite"/><animate attributeName="y" values="25;34;15;29;25" dur="1.25s" repeatCount="indefinite"/></rect>
+    <rect x="30" y="15" width="10" height="50" rx="2"><animate attributeName="height" values="50;20;35;60;50" dur="0.85s" repeatCount="indefinite"/><animate attributeName="y" values="15;30;22;10;15" dur="0.85s" repeatCount="indefinite"/></rect>
+    <rect x="45" y="30" width="10" height="20" rx="2"><animate attributeName="height" values="20;45;15;38;20" dur="1.15s" repeatCount="indefinite"/><animate attributeName="y" values="30;17;32;21;30" dur="1.15s" repeatCount="indefinite"/></rect>
+    <rect x="60" y="10" width="10" height="60" rx="2"><animate attributeName="height" values="60;25;45;15;60" dur="0.95s" repeatCount="indefinite"/><animate attributeName="y" values="10;27;17;32;10" dur="0.95s" repeatCount="indefinite"/></rect>
+    <rect x="75" y="28" width="10" height="24" rx="2"><animate attributeName="height" values="24;50;18;36;24" dur="1.35s" repeatCount="indefinite"/><animate attributeName="y" values="28;15;31;22;28" dur="1.35s" repeatCount="indefinite"/></rect>
+    <rect x="90" y="20" width="10" height="40" rx="2"><animate attributeName="height" values="40;15;55;25;40" dur="1.0s" repeatCount="indefinite"/><animate attributeName="y" values="20;32;12;27;20" dur="1.0s" repeatCount="indefinite"/></rect>
+    <rect x="105" y="32" width="10" height="16" rx="2"><animate attributeName="height" values="16;42;22;50;16" dur="1.2s" repeatCount="indefinite"/><animate attributeName="y" values="32;19;29;15;32" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="120" y="18" width="10" height="44" rx="2"><animate attributeName="height" values="44;60;20;35;44" dur="0.9s" repeatCount="indefinite"/><animate attributeName="y" values="18;10;30;22;18" dur="0.9s" repeatCount="indefinite"/></rect>
+    <rect x="135" y="26" width="10" height="28" rx="2"><animate attributeName="height" values="28;12;48;20;28" dur="1.1s" repeatCount="indefinite"/><animate attributeName="y" values="26;34;16;30;26" dur="1.1s" repeatCount="indefinite"/></rect>
+  </g>
+  <g fill="url(#amberBar)" transform="translate(300,0)">
+    <rect x="0" y="35" width="10" height="10" rx="2"><animate attributeName="height" values="10;55;18;40;10" dur="1.1s" repeatCount="indefinite"/><animate attributeName="y" values="35;12;31;20;35" dur="1.1s" repeatCount="indefinite"/></rect>
+    <rect x="15" y="25" width="10" height="30" rx="2"><animate attributeName="height" values="30;12;50;22;30" dur="1.3s" repeatCount="indefinite"/><animate attributeName="y" values="25;34;15;29;25" dur="1.3s" repeatCount="indefinite"/></rect>
+    <rect x="30" y="15" width="10" height="50" rx="2"><animate attributeName="height" values="50;20;35;60;50" dur="0.9s" repeatCount="indefinite"/><animate attributeName="y" values="15;30;22;10;15" dur="0.9s" repeatCount="indefinite"/></rect>
+    <rect x="45" y="30" width="10" height="20" rx="2"><animate attributeName="height" values="20;45;15;38;20" dur="1.2s" repeatCount="indefinite"/><animate attributeName="y" values="30;17;32;21;30" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="60" y="10" width="10" height="60" rx="2"><animate attributeName="height" values="60;25;45;15;60" dur="1.0s" repeatCount="indefinite"/><animate attributeName="y" values="10;27;17;32;10" dur="1.0s" repeatCount="indefinite"/></rect>
+    <rect x="75" y="28" width="10" height="24" rx="2"><animate attributeName="height" values="24;50;18;36;24" dur="1.4s" repeatCount="indefinite"/><animate attributeName="y" values="28;15;31;22;28" dur="1.4s" repeatCount="indefinite"/></rect>
+    <rect x="90" y="20" width="10" height="40" rx="2"><animate attributeName="height" values="40;15;55;25;40" dur="1.05s" repeatCount="indefinite"/><animate attributeName="y" values="20;32;12;27;20" dur="1.05s" repeatCount="indefinite"/></rect>
+    <rect x="105" y="32" width="10" height="16" rx="2"><animate attributeName="height" values="16;42;22;50;16" dur="1.25s" repeatCount="indefinite"/><animate attributeName="y" values="32;19;29;15;32" dur="1.25s" repeatCount="indefinite"/></rect>
+    <rect x="120" y="18" width="10" height="44" rx="2"><animate attributeName="height" values="44;60;20;35;44" dur="0.95s" repeatCount="indefinite"/><animate attributeName="y" values="18;10;30;22;18" dur="0.95s" repeatCount="indefinite"/></rect>
+    <rect x="135" y="26" width="10" height="28" rx="2"><animate attributeName="height" values="28;12;48;20;28" dur="1.15s" repeatCount="indefinite"/><animate attributeName="y" values="26;34;16;30;26" dur="1.15s" repeatCount="indefinite"/></rect>
+  </g>
+  <g fill="url(#amberBar)" transform="translate(450,0)">
+    <rect x="0" y="35" width="10" height="10" rx="2"><animate attributeName="height" values="10;55;18;40;10" dur="1.05s" repeatCount="indefinite"/><animate attributeName="y" values="35;12;31;20;35" dur="1.05s" repeatCount="indefinite"/></rect>
+    <rect x="15" y="25" width="10" height="30" rx="2"><animate attributeName="height" values="30;12;50;22;30" dur="1.25s" repeatCount="indefinite"/><animate attributeName="y" values="25;34;15;29;25" dur="1.25s" repeatCount="indefinite"/></rect>
+    <rect x="30" y="15" width="10" height="50" rx="2"><animate attributeName="height" values="50;20;35;60;50" dur="0.85s" repeatCount="indefinite"/><animate attributeName="y" values="15;30;22;10;15" dur="0.85s" repeatCount="indefinite"/></rect>
+    <rect x="45" y="30" width="10" height="20" rx="2"><animate attributeName="height" values="20;45;15;38;20" dur="1.15s" repeatCount="indefinite"/><animate attributeName="y" values="30;17;32;21;30" dur="1.15s" repeatCount="indefinite"/></rect>
+    <rect x="60" y="10" width="10" height="60" rx="2"><animate attributeName="height" values="60;25;45;15;60" dur="0.95s" repeatCount="indefinite"/><animate attributeName="y" values="10;27;17;32;10" dur="0.95s" repeatCount="indefinite"/></rect>
+    <rect x="75" y="28" width="10" height="24" rx="2"><animate attributeName="height" values="24;50;18;36;24" dur="1.35s" repeatCount="indefinite"/><animate attributeName="y" values="28;15;31;22;28" dur="1.35s" repeatCount="indefinite"/></rect>
+    <rect x="90" y="20" width="10" height="40" rx="2"><animate attributeName="height" values="40;15;55;25;40" dur="1.0s" repeatCount="indefinite"/><animate attributeName="y" values="20;32;12;27;20" dur="1.0s" repeatCount="indefinite"/></rect>
+    <rect x="105" y="32" width="10" height="16" rx="2"><animate attributeName="height" values="16;42;22;50;16" dur="1.2s" repeatCount="indefinite"/><animate attributeName="y" values="32;19;29;15;32" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="120" y="18" width="10" height="44" rx="2"><animate attributeName="height" values="44;60;20;35;44" dur="0.9s" repeatCount="indefinite"/><animate attributeName="y" values="18;10;30;22;18" dur="0.9s" repeatCount="indefinite"/></rect>
+    <rect x="135" y="26" width="10" height="28" rx="2"><animate attributeName="height" values="28;12;48;20;28" dur="1.1s" repeatCount="indefinite"/><animate attributeName="y" values="26;34;16;30;26" dur="1.1s" repeatCount="indefinite"/></rect>
+  </g>
+</svg>
