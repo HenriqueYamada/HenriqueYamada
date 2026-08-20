@@ -203,7 +203,7 @@ Projeto de site para sorveteria.
 ## 📊 GITHUB STATS
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HenriqueYamada&show_icons=true&count_private=true&bg_color=0D0C0B&title_color=E8A33D&icon_color=E8A33D&text_color=C9C9C9&border_color=2B2118&hide_border=false" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HenriqueYamada&show_icons=true&bg_color=0D0C0B&title_color=E8A33D&icon_color=E8A33D&text_color=C9C9C9&border_color=2B2118&hide_border=false" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueYamada&layout=compact&bg_color=0D0C0B&title_color=E8A33D&text_color=C9C9C9&border_color=2B2118&hide_border=false" />
 </p>
 
