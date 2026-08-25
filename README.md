@@ -1,139 +1,142 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/%3C/%3E-MUSIC%20%2B%20DEVELOPER-58A6FF?style=for-the-badge&labelColor=0D1117" alt="Music + Developer" />
+![Music + Developer](https://img.shields.io/badge/%3C%2F%3E-MUSIC%20%2B%20DEVELOPER-58A6FF?style=for-the-badge&labelColor=0D1117)
 
 </div>
 
-<br/>
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="65%" valign="middle">
-
-▶️ &nbsp;**Tocando agora**
-
-# Henrique Yuji Yamada
-
-### Full-Stack Developer *(em desenvolvimento)*
-
-Transformo código e música em experiências que conectam.
-
-`1:24` ▬▬▬▬▬▬▬●▬▬▬▬▬▬▬▬▬▬▬▬ `3:47`
-
-⏮️ &nbsp; ⏸️ &nbsp; ⏭️ &nbsp; &nbsp; 🔀 &nbsp; 🔁
-
-</td>
-<td width="35%" align="center">
-
-<img src="https://avatars.githubusercontent.com/u/188220676?v=4" width="180" style="border-radius:50%;" alt="Henrique Yamada"/>
-
-</td>
-</tr>
+<table width="100%">
+  <tr>
+    <td width="72%" valign="middle">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/now-playing-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="./assets/now-playing-light.svg">
+        <img src="./assets/now-playing-dark.svg" width="100%" alt="Tocando agora: Henrique Yuji Yamada. Barra de progresso e equalizador animados.">
+      </picture>
+    </td>
+    <td width="28%" align="center" valign="middle">
+      <img src="https://avatars.githubusercontent.com/u/188220676?v=4" width="170" alt="Avatar de Henrique Yuji Yamada">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <h3>⏮️ &nbsp;&nbsp; ⏸️ &nbsp;&nbsp; ⏭️ &nbsp;&nbsp;&nbsp;&nbsp; 🔀 &nbsp;&nbsp; 🔁</h3>
+      <sub>Os controles são apenas visuais e não são clicáveis.</sub>
+    </td>
+  </tr>
 </table>
 
-<sub>🎧 *Player ilustrativo — o GitHub não executa JavaScript em READMEs, então os controles acima são apenas visuais.*</sub>
-
-<br/>
+<br>
 
 ## 👤 SOBRE MIM
 
-Olá! Me chamo **Henrique Yuji Yamada** e tenho 18 anos. Nasci no Japão, em **Kani-Chi**, na província de **Gifu**, mas atualmente moro no Brasil, em **Assis, São Paulo**, há 14 anos.
+<table width="100%">
+  <tr>
+    <td>
+      Olá! Me chamo Henrique Yuji Yamada e tenho 18 anos. Nasci no Japão, em Kani-Chi, na província de Gifu, mas atualmente moro no Brasil, em Assis, São Paulo, há 14 anos. Concluí meu ensino médio na ETEC Pedro D'Arcádia Neto, com foco em Matemática e Suas Tecnologias, e atualmente estudo na FEMA (Fundação Educacional Municipal de Assis), cursando Ciência da Computação — estou no meu primeiro ano. Sou um desenvolvedor Front-End em formação, apaixonado por transformar ideias em projetos reais — e, futuramente, pretendo ampliar minha atuação para Full-Stack.
+    </td>
+  </tr>
+</table>
 
-Concluí meu ensino médio na **ETEC Pedro D'Arcádia Neto**, com foco em **Matemática e Suas Tecnologias**, e atualmente estudo na **FEMA** (Fundação Educacional Municipal de Assis), cursando **Ciência da Computação** — estou no meu primeiro ano.
+<br>
 
-Sou um desenvolvedor **Front-End** em formação, apaixonado por transformar ideias em projetos reais — e, futuramente, pretendo ampliar minha atuação para **Full-Stack**.
-
-<br/>
-
-## </> SKILLS
-
-**Front-End**
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-
-**Back-End**
-
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-
-**Banco de Dados**
-
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-
-**Infra**
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-
-**Ferramentas**
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/> <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" alt="Word"/>
-
-<br/>
-
-## 📂 PROJETOS EM DESTAQUE
+## `</>` SKILLS
 
 <table width="100%">
-<tr>
-<td width="33%" valign="top">
+  <tr>
+    <td width="50%" valign="top">
+      <strong>🎨 Front-End</strong><br><br>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+    </td>
+    <td width="50%" valign="top">
+      <strong>⚙️ Back-End</strong><br><br>
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>🗄️ Banco de Dados</strong><br><br><img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"></td>
+    <td valign="top"><strong>🐳 Infra</strong><br><br><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <strong>🧰 Ferramentas</strong><br><br>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+      <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel">
+      <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" alt="Word">
+    </td>
+  </tr>
+</table>
 
-**FHD Music**
-Site institucional de uma escola de música com foco em experiência e informação.
-🔗 [Ver projeto](https://github.com/HenriqueYamada/Projeto-FHD-Music)
+<br>
 
-</td>
-<td width="33%" valign="top">
+## 📁 PROJETOS EM DESTAQUE
 
-**Cartas Discersadas**
-Projeto pessoal de cartas anônimas com mensagens sinceras e aleatórias.
-🔗 *Link em breve*
-
-</td>
-<td width="33%" valign="top">
-
-**Jornada Viagens**
-Plataforma para compartilhar e descobrir experiências de viagem.
-🔗 *Link em breve*
-
-</td>
-</tr>
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top"><h3>🎸 FHD Music</h3><p>Site institucional de uma escola de música com foco em experiência e informação.</p><a href="https://github.com/HenriqueYamada/Projeto-FHD-Music">▶ Ver projeto</a></td>
+    <td width="33%" valign="top"><h3>💌 Cartas Discersadas</h3><p>Projeto pessoal de cartas anônimas com mensagens sinceras e aleatórias.</p><em>Link em breve</em></td>
+    <td width="33%" valign="top"><h3>🗺️ Jornada Viagens</h3><p>Plataforma para compartilhar e descobrir experiências de viagem.</p><em>Link em breve</em></td>
+  </tr>
 </table>
 
 <div align="center">
 
-[![Veja outros projetos](https://img.shields.io/badge/★%20VENHA%20CONHECER%20OUTROS%20PROJETOS-58A6FF?style=for-the-badge&labelColor=0D1117)](https://github.com/HenriqueYamada?tab=repositories)
+[![Venha conhecer outros projetos](https://img.shields.io/badge/★%20VENHA%20CONHECER%20OUTROS%20PROJETOS-58A6FF?style=for-the-badge&labelColor=0D1117)](https://github.com/HenriqueYamada?tab=repositories)
 
 </div>
 
-<br/>
+<br>
 
 ## 🐙 GITHUB STATS
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=HenriqueYamada&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9C9C9" alt="Estatísticas do GitHub"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueYamada&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9C9C9" alt="Linguagens mais usadas"/>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HenriqueYamada&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HenriqueYamada&theme=github">
+    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HenriqueYamada&theme=github_dark" alt="Contribuições e repositórios públicos de HenriqueYamada">
+  </picture>
+  <br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HenriqueYamada&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HenriqueYamada&theme=github">
+    <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HenriqueYamada&theme=github_dark" alt="Estatísticas gerais e commits de HenriqueYamada">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HenriqueYamada&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HenriqueYamada&theme=github">
+    <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HenriqueYamada&theme=github_dark" alt="Linguagens mais usadas por HenriqueYamada">
+  </picture>
+  <br>
+  <img src="https://img.shields.io/github/followers/HenriqueYamada?style=for-the-badge&logo=github&label=Seguidores&labelColor=0D1117&color=58A6FF" alt="Seguidores no GitHub">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FHenriqueYamada&query=%24.public_repos&label=Reposit%C3%B3rios%20p%C3%BAblicos&style=for-the-badge&logo=github&labelColor=0D1117&color=58A6FF" alt="Repositórios públicos no GitHub">
 </div>
 
-<br/>
+<br>
 
 ## 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/HenriqueYamada/HenriqueYamada/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HenriqueYamada/HenriqueYamada/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HenriqueYamada/HenriqueYamada/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/HenriqueYamada/HenriqueYamada/output/github-contribution-grid-snake.svg" width="100%" alt="Cobrinha animada percorrendo as contribuições de HenriqueYamada">
+  </picture>
 </div>
 
-<sub>Gerada automaticamente por GitHub Actions — veja o Passo 4 abaixo para ativar.</sub>
+<sub>Gerada automaticamente todos os dias pelo workflow já existente com Platane/snk.</sub>
 
-<br/>
+<br>
 
 ## 💬 CITAÇÃO FILOSÓFICA
 
-> "O que você faz hoje pode melhorar todos os seus amanhãs."
-> — Ralph Marston
+<table width="100%"><tr><td align="center"><h3>“O que você faz hoje pode melhorar todos os seus amanhãs.”</h3><sub>— Ralph Marston</sub></td></tr></table>
 
-<br/>
+<br>
 
 ## 📡 CONTATOS
 
