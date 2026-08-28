@@ -1,4 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="210" viewBox="0 0 1100 210" role="img" aria-label="Citação filosófica de Ralph Marston">
-  <rect x="2" y="2" width="1096" height="206" rx="14" fill="#061B28" stroke="#163B52" stroke-width="2"/>
-  <g font-family="Segoe UI,Arial,sans-serif"><text x="40" y="52" font-size="22" fill="#58A6FF">❝  CITAÇÃO FILOSÓFICA</text><line x1="40" y1="73" x2="1060" y2="73" stroke="#163B52"/><text x="550" y="125" text-anchor="middle" font-size="25" fill="#F0F6FC">“ O que você faz hoje pode melhorar todos os seus amanhãs. ”</text><text x="550" y="166" text-anchor="middle" font-size="18" fill="#58A6FF">— Ralph Marston</text></g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="220" viewBox="0 0 1100 220" role="img" aria-label="Citação de Alan Turing">
+  <rect x="2" y="2" width="1096" height="216" rx="14" fill="#0D1117" stroke="#30363D" stroke-width="2"/>
+  <text x="65" y="88" font-family="Georgia,serif" font-size="70" fill="#484F58">“</text>
+  <text x="550" y="92" text-anchor="middle" font-family="Georgia,serif" font-size="24" font-style="italic" fill="#F0F6FC">We can only see a short distance ahead, but we can see</text>
+  <text x="550" y="127" text-anchor="middle" font-family="Georgia,serif" font-size="24" font-style="italic" fill="#F0F6FC">plenty there that needs to be done.</text>
+  <line x1="450" y1="157" x2="505" y2="157" stroke="#8B949E" stroke-width="2"/>
+  <text x="520" y="164" font-family="Segoe UI,Arial,sans-serif" font-size="17" fill="#8B949E">Alan Turing</text>
 </svg>

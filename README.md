@@ -1,32 +1,62 @@
-<img src="./assets/hero.svg" width="100%" alt="Tocando agora: Henrique Yuji Yamada — Full-Stack Developer em desenvolvimento. Player com progresso e waveform animados.">
+<div align="center">
 
-<br><br>
+<img src="./assets/hero.svg" width="100%" alt="Player musical de Henrique Yuji Yamada — Full-Stack Developer em desenvolvimento. Contador, progresso e waveform animados.">
+
+<br>
 
 <img src="./assets/about.svg" width="100%" alt="Sobre mim">
 
-<br>
-
-<img src="./assets/skills.svg" width="100%" alt="Skills: Front-End HTML5, CSS3 e JavaScript; Back-End C++, PHP e Laravel; Banco de Dados SQL; Infra Docker; Ferramentas Git, GitHub, Figma, Excel e Word.">
-
 </div>
 
-<br>
+## `</>` SKILLS
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <strong>Front-End</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="48" alt="HTML5, CSS3 e JavaScript">
+    </td>
+    <td width="50%" align="center">
+      <strong>Back-End</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=cpp,php,laravel&theme=dark" height="48" alt="C++, PHP e Laravel">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Banco de Dados</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="48" alt="SQL">
+    </td>
+    <td align="center">
+      <strong>Infra</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=docker&theme=dark" height="48" alt="Docker">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <strong>Ferramentas</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=git,github,figma&theme=dark" height="48" alt="Git, GitHub e Figma">
+      &nbsp;
+      <img src="./assets/skills/excel.svg" height="48" alt="Excel">
+      <img src="./assets/skills/word.svg" height="48" alt="Word">
+    </td>
+  </tr>
+</table>
 
 ## 📁 PROJETOS EM DESTAQUE
 
 <div align="center">
   <a href="https://github.com/HenriqueYamada/Projeto-FHD-Music"><img src="./assets/projects/fhd-card.svg" width="32%" alt="FHD Music — Ver projeto"></a>
-  <img src="./assets/projects/cartas-card.svg" width="32%" alt="Cartas Discersadas — Link em breve">
+  <img src="./assets/projects/cartas-card.svg" width="32%" alt="Cartas Alicerçadas — Link em breve">
   <img src="./assets/projects/jornada-card.svg" width="32%" alt="Jornada Viagens — Link em breve">
 </div>
 
 <div align="center">
 
-[![Venha conhecer outros projetos](https://img.shields.io/badge/★%20VENHA%20CONHECER%20OUTROS%20PROJETOS-58A6FF?style=for-the-badge&labelColor=061B28)](https://github.com/HenriqueYamada?tab=repositories)
+<br><br>
+
+[<img src="./assets/projects-button.svg" width="58%" alt="Venha conhecer outros projetos">](https://github.com/HenriqueYamada?tab=repositories)
 
 </div>
-
-<br>
 
 ## 🐙 GITHUB STATS
 
@@ -41,12 +71,7 @@
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HenriqueYamada&theme=github">
     <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HenriqueYamada&theme=github_dark" alt="Linguagens mais usadas por HenriqueYamada">
   </picture>
-  <br>
-  <img src="https://img.shields.io/github/followers/HenriqueYamada?style=for-the-badge&logo=github&label=Seguidores&labelColor=061B28&color=58A6FF" alt="Seguidores no GitHub">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FHenriqueYamada&query=%24.public_repos&label=Reposit%C3%B3rios%20p%C3%BAblicos&style=for-the-badge&logo=github&labelColor=061B28&color=58A6FF" alt="Repositórios públicos no GitHub">
 </div>
-
-<br>
 
 ## 🐍 CONTRIBUTION SNAKE
 
@@ -60,18 +85,16 @@
   <sub>Contribuindo um commit de cada vez. 🐍</sub>
 </div>
 
-<br>
-
 <div align="center">
-  <img src="./assets/quote.svg" width="100%" alt="O que você faz hoje pode melhorar todos os seus amanhãs. — Ralph Marston">
+  <img src="./assets/quote.svg" width="100%" alt="We can only see a short distance ahead, but we can see plenty there that needs to be done. — Alan Turing">
 </div>
-
-<br>
 
 ## 📡 CONTATOS
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/henrique-yuji-yamada/"><img src="./assets/contact-linkedin.svg" width="32%" alt="LinkedIn"></a>
-  <a href="mailto:henriqueyamada01@gmail.com"><img src="./assets/contact-email.svg" width="32%" alt="E-mail"></a>
-  <a href="https://github.com/HenriqueYamada"><img src="./assets/contact-github.svg" width="32%" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/henrique-yuji-yamada/"><img src="./assets/contact-linkedin.svg" width="58" alt="LinkedIn"></a>
+  &nbsp;&nbsp;
+  <a href="mailto:henriqueyamada01@gmail.com"><img src="./assets/contact-email.svg" width="58" alt="E-mail"></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/HenriqueYamada"><img src="./assets/contact-github.svg" width="58" alt="GitHub"></a>
 </div>

@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1100" height="335" viewBox="0 0 1100 335" role="img" aria-labelledby="t d">
   <title id="t">Sobre mim</title><desc id="d">Apresentação de Henrique Yuji Yamada.</desc>
-  <rect x="2" y="2" width="1096" height="331" rx="14" fill="#061B28" stroke="#163B52" stroke-width="2"/>
+  <rect x="2" y="2" width="1096" height="331" rx="14" fill="#0D1117" stroke="#30363D" stroke-width="2"/>
   <g font-family="Segoe UI,Arial,sans-serif">
-    <text x="40" y="58" font-size="22" fill="#58A6FF">♙  SOBRE MIM</text>
-    <line x1="40" y1="80" x2="1060" y2="80" stroke="#163B52"/>
+    <text x="40" y="58" font-size="22" fill="#E6EDF3">♙  SOBRE MIM</text>
+    <line x1="40" y1="80" x2="1060" y2="80" stroke="#30363D"/>
     <text x="40" y="125" font-size="19" fill="#C9D1D9">
       <tspan x="40" dy="0">Olá! Me chamo </tspan><tspan font-weight="700" fill="#F0F6FC">Henrique Yuji Yamada</tspan><tspan> e tenho 18 anos. Nasci no Japão, em </tspan><tspan font-weight="700" fill="#F0F6FC">Kani-Chi</tspan><tspan>, na província de</tspan>
       <tspan x="40" dy="34">Gifu, mas atualmente moro no Brasil, em </tspan><tspan font-weight="700" fill="#F0F6FC">Assis, São Paulo</tspan><tspan>, há 14 anos. Concluí meu ensino médio na</tspan>
