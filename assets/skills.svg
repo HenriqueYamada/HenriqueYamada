@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="550" viewBox="0 0 1100 550" role="img" aria-label="Skills de Henrique Yuji Yamada">
+  <defs><linearGradient id="bg" x1="0" x2="1"><stop stop-color="#061B28"/><stop offset="1" stop-color="#041722"/></linearGradient></defs>
+  <rect x="2" y="2" width="1096" height="546" rx="14" fill="url(#bg)" stroke="#163B52" stroke-width="2"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="40" y="58" font-size="22" fill="#58A6FF">&lt;/&gt;  SKILLS</text><line x1="40" y1="80" x2="1060" y2="80" stroke="#163B52"/>
+    <text x="40" y="124" font-size="15" fill="#8B949E">▣  FRONT-END</text>
+    <text x="500" y="124" font-size="15" fill="#8B949E">⚙  BACK-END</text>
+    <g font-weight="700" text-anchor="middle">
+      <rect x="40" y="150" width="125" height="92" rx="8" fill="#0D2534" stroke="#163B52"/><text x="102" y="194" font-size="30" fill="#E34F26">HTML5</text><text x="102" y="224" font-size="14" fill="#C9D1D9">HTML5</text>
+      <rect x="180" y="150" width="125" height="92" rx="8" fill="#0D2534" stroke="#163B52"/><text x="242" y="194" font-size="30" fill="#1572B6">CSS3</text><text x="242" y="224" font-size="14" fill="#C9D1D9">CSS3</text>
+      <rect x="320" y="150" width="125" height="92" rx="8" fill="#0D2534" stroke="#163B52"/><text x="382" y="194" font-size="29" fill="#F7DF1E">JS</text><text x="382" y="224" font-size="14" fill="#C9D1D9">JavaScript</text>
+      <rect x="500" y="150" width="125" height="92" rx="8" fill="#0D2534" stroke="#163B52"/><text x="562" y="194" font-size="28" fill="#58A6FF">C++</text><text x="562" y="224" font-size="14" fill="#C9D1D9">C++</text>
+      <rect x="640" y="150" width="125" height="92" rx="8" fill="#0D2534" stroke="#163B52"/><text x="702" y="194" font-size="28" fill="#8892BF">PHP</text><text x="702" y="224" font-size="14" fill="#C9D1D9">PHP</text>
+      <rect x="780" y="150" width="125" height="92" rx="8" fill="#0D2534" stroke="#163B52"/><text x="842" y="194" font-size="27" fill="#FF2D20">◇◇</text><text x="842" y="224" font-size="14" fill="#C9D1D9">Laravel</text>
+    </g>
+    <line x1="40" y1="274" x2="1060" y2="274" stroke="#163B52"/>
+    <text x="40" y="311" font-size="15" fill="#8B949E">▣  BANCO DE DADOS</text><text x="500" y="311" font-size="15" fill="#8B949E">⚙  INFRA</text>
+    <g font-weight="700"><rect x="40" y="330" width="190" height="65" rx="8" fill="#0D2534" stroke="#163B52"/><text x="70" y="371" font-size="22" fill="#58A6FF">◉ SQL</text><rect x="500" y="330" width="190" height="65" rx="8" fill="#0D2534" stroke="#163B52"/><text x="530" y="371" font-size="22" fill="#2496ED">☁ Docker</text></g>
+    <line x1="40" y1="420" x2="1060" y2="420" stroke="#163B52"/>
+    <text x="40" y="457" font-size="15" fill="#8B949E">⬟  FERRAMENTAS</text>
+    <g font-size="17" font-weight="700"><text x="40" y="507" fill="#F05032">◆ Git</text><text x="170" y="507" fill="#F0F6FC">◉ GitHub</text><text x="335" y="507" fill="#F24E1E">● Figma</text><text x="500" y="507" fill="#21A366">▣ Excel</text><text x="655" y="507" fill="#2B579A">▣ Word</text></g>
+  </g>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="84" viewBox="0 0 1100 84" role="img" aria-label="Music + Developer">
+  <rect width="1100" height="84" rx="12" fill="#0D1117"/>
+  <g font-family="Segoe UI,Arial,sans-serif" font-weight="700" letter-spacing="4">
+    <text x="383" y="54" font-size="24" fill="#58A6FF">&lt;/&gt;.</text>
+    <text x="465" y="54" font-size="26" fill="#F0F6FC">MUSIC + DEVELOPER</text>
+  </g>
+  <circle cx="371" cy="45" r="3" fill="#58A6FF"><animate attributeName="opacity" values=".25;1;.25" dur="2s" repeatCount="indefinite"/></circle>
+</svg>
