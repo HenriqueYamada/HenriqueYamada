@@ -2,42 +2,42 @@
 
 <img src="./assets/hero.svg" width="100%" alt="Player musical de Henrique Yuji Yamada — Full-Stack Developer em desenvolvimento. Contador, progresso e waveform animados.">
 
-<br>
+<br><br>
 
 <img src="./assets/about.svg" width="100%" alt="Sobre mim">
 
 </div>
 
-## `</>` SKILLS
+<h2><sub>&lt;/&gt;</sub>&nbsp; SKILLS</h2>
 
 <table width="100%">
   <tr>
     <td width="50%" align="center">
       <strong>Front-End</strong><br><br>
-      <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="48" alt="HTML5, CSS3 e JavaScript">
+      <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="64" alt="HTML5, CSS3 e JavaScript">
     </td>
     <td width="50%" align="center">
       <strong>Back-End</strong><br><br>
-      <img src="https://skillicons.dev/icons?i=cpp,php,laravel&theme=dark" height="48" alt="C++, PHP e Laravel">
+      <img src="https://skillicons.dev/icons?i=cpp,php,laravel&theme=dark" height="64" alt="C++, PHP e Laravel">
     </td>
   </tr>
   <tr>
     <td align="center">
       <strong>Banco de Dados</strong><br><br>
-      <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="48" alt="SQL">
+      <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="64" alt="SQL">
     </td>
     <td align="center">
       <strong>Infra</strong><br><br>
-      <img src="https://skillicons.dev/icons?i=docker&theme=dark" height="48" alt="Docker">
+      <img src="https://skillicons.dev/icons?i=docker&theme=dark" height="64" alt="Docker">
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
       <strong>Ferramentas</strong><br><br>
-      <img src="https://skillicons.dev/icons?i=git,github,figma&theme=dark" height="48" alt="Git, GitHub e Figma">
+      <img src="https://skillicons.dev/icons?i=git,github,figma&theme=dark" height="64" alt="Git, GitHub e Figma">
       &nbsp;
-      <img src="./assets/skills/excel.svg" height="48" alt="Excel">
-      <img src="./assets/skills/word.svg" height="48" alt="Word">
+      <img src="./assets/skills/excel.svg" height="64" alt="Excel">
+      <img src="./assets/skills/word.svg" height="64" alt="Word">
     </td>
   </tr>
 </table>
@@ -52,7 +52,7 @@
 
 <div align="center">
 
-<br><br>
+<br>
 
 [<img src="./assets/projects-button.svg" width="58%" alt="Venha conhecer outros projetos">](https://github.com/HenriqueYamada?tab=repositories)
 
@@ -81,17 +81,16 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HenriqueYamada/HenriqueYamada/output/github-contribution-grid-snake.svg">
     <img src="https://raw.githubusercontent.com/HenriqueYamada/HenriqueYamada/output/github-contribution-grid-snake.svg" width="100%" alt="Cobrinha animada percorrendo as contribuições de HenriqueYamada">
   </picture>
-  <br>
-  <sub>Contribuindo um commit de cada vez. 🐍</sub>
 </div>
 
 <div align="center">
   <img src="./assets/quote.svg" width="100%" alt="We can only see a short distance ahead, but we can see plenty there that needs to be done. — Alan Turing">
 </div>
 
-## 📡 CONTATOS
+## ✉️ CONTATOS
 
 <div align="center">
+  <p>Gostaria de conversar sobre projetos, trocar ideias ou conhecer possíveis oportunidades? Fique à vontade para entrar em contato.</p>
   <a href="https://www.linkedin.com/in/henrique-yuji-yamada/"><img src="./assets/contact-linkedin.svg" width="58" alt="LinkedIn"></a>
   &nbsp;&nbsp;
   <a href="mailto:henriqueyamada01@gmail.com"><img src="./assets/contact-email.svg" width="58" alt="E-mail"></a>
