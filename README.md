@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero-v3.svg" width="100%" alt="Player musical de Henrique Yuji Yamada — Full-Stack Developer em desenvolvimento. Contador, progresso e waveform animados.">
+<img src="./assets/hero-v4.svg" width="100%" alt="Player musical de Henrique Yuji Yamada — Full-Stack Developer em desenvolvimento. Contador, progresso e waveform animados.">
 
 <br>
 
@@ -17,9 +17,11 @@
 ## PROJETOS EM DESTAQUE
 
 <div align="center">
-  <a href="https://github.com/HenriqueYamada/Projeto-FHD-Music"><img src="./assets/projects/fhd-card-v3.svg" width="31%" alt="FHD Music — Ver projeto"></a>
-  <img src="./assets/projects/cartas-card.svg" width="31%" alt="Cartas Alicerçadas — Link em breve">
-  <img src="./assets/projects/jornada-card.svg" width="31%" alt="Jornada Viagens — Link em breve">
+  <a href="https://github.com/HenriqueYamada/Projeto-FHD-Music"><img src="./assets/projects/fhd-card-v3.svg" width="30%" alt="FHD Music — Ver projeto"></a>
+  &nbsp;&nbsp;
+  <img src="./assets/projects/cartas-card.svg" width="30%" alt="Cartas Alicerçadas — Link em breve">
+  &nbsp;&nbsp;
+  <img src="./assets/projects/jornada-card.svg" width="30%" alt="Jornada Viagens — Link em breve">
 </div>
 
 <div align="center">
