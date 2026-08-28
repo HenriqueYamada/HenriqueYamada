@@ -1,51 +1,23 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Player musical de Henrique Yuji Yamada — Full-Stack Developer em desenvolvimento. Contador, progresso e waveform animados.">
+<img src="./assets/hero-v2.svg" width="100%" alt="Player musical de Henrique Yuji Yamada — Full-Stack Developer em desenvolvimento. Contador, progresso e waveform animados.">
 
 <br><br>
 
-<img src="./assets/about.svg" width="100%" alt="Sobre mim">
+<img src="./assets/about-v2.svg" width="100%" alt="Sobre mim">
 
 </div>
 
 <h2><sub>&lt;/&gt;</sub>&nbsp; SKILLS</h2>
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <strong>Front-End</strong><br><br>
-      <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="64" alt="HTML5, CSS3 e JavaScript">
-    </td>
-    <td width="50%" align="center">
-      <strong>Back-End</strong><br><br>
-      <img src="https://skillicons.dev/icons?i=cpp,php,laravel&theme=dark" height="64" alt="C++, PHP e Laravel">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <strong>Banco de Dados</strong><br><br>
-      <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="64" alt="SQL">
-    </td>
-    <td align="center">
-      <strong>Infra</strong><br><br>
-      <img src="https://skillicons.dev/icons?i=docker&theme=dark" height="64" alt="Docker">
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <strong>Ferramentas</strong><br><br>
-      <img src="https://skillicons.dev/icons?i=git,github,figma&theme=dark" height="64" alt="Git, GitHub e Figma">
-      &nbsp;
-      <img src="./assets/skills/excel.svg" height="64" alt="Excel">
-      <img src="./assets/skills/word.svg" height="64" alt="Word">
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="./assets/skills-v2.svg" width="100%" alt="Skills: Front-End, Back-End, Banco de Dados, Infra e Ferramentas">
+</div>
 
 ## 📁 PROJETOS EM DESTAQUE
 
 <div align="center">
-  <a href="https://github.com/HenriqueYamada/Projeto-FHD-Music"><img src="./assets/projects/fhd-card.svg" width="32%" alt="FHD Music — Ver projeto"></a>
+  <a href="https://github.com/HenriqueYamada/Projeto-FHD-Music"><img src="./assets/projects/fhd-card-v2.svg" width="32%" alt="FHD Music — Ver projeto"></a>
   <img src="./assets/projects/cartas-card.svg" width="32%" alt="Cartas Alicerçadas — Link em breve">
   <img src="./assets/projects/jornada-card.svg" width="32%" alt="Jornada Viagens — Link em breve">
 </div>
@@ -84,16 +56,18 @@
 </div>
 
 <div align="center">
-  <img src="./assets/quote.svg" width="100%" alt="We can only see a short distance ahead, but we can see plenty there that needs to be done. — Alan Turing">
+  <img src="./assets/quote-v2.svg" width="100%" alt="We can only see a short distance ahead, but we can see plenty there that needs to be done. — Alan Turing">
 </div>
 
-## ✉️ CONTATOS
+## 🤝 CONTATOS
 
 <div align="center">
-  <p>Gostaria de conversar sobre projetos, trocar ideias ou conhecer possíveis oportunidades? Fique à vontade para entrar em contato.</p>
-  <a href="https://www.linkedin.com/in/henrique-yuji-yamada/"><img src="./assets/contact-linkedin.svg" width="58" alt="LinkedIn"></a>
+  <h3>Vamos conversar?</h3>
+  <p>Se quiser conversar sobre projetos, trocar ideias ou conhecer possíveis oportunidades, fique à vontade para entrar em contato.</p>
+  <br>
+  <a href="https://www.linkedin.com/in/henrique-yuji-yamada/"><img src="./assets/contact-linkedin.svg" width="64" alt="LinkedIn"></a>
   &nbsp;&nbsp;
-  <a href="mailto:henriqueyamada01@gmail.com"><img src="./assets/contact-email.svg" width="58" alt="E-mail"></a>
+  <a href="mailto:henriqueyamada01@gmail.com"><img src="./assets/contact-email.svg" width="64" alt="E-mail"></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/HenriqueYamada"><img src="./assets/contact-github.svg" width="58" alt="GitHub"></a>
+  <a href="https://github.com/HenriqueYamada"><img src="./assets/contact-github.svg" width="64" alt="GitHub"></a>
 </div>
