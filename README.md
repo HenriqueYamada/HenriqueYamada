@@ -1,10 +1,4 @@
-<div align="center">
-
-<img src="./assets/title.svg" width="100%" alt="Music + Developer">
-
 <img src="./assets/hero.svg" width="100%" alt="Tocando agora: Henrique Yuji Yamada — Full-Stack Developer em desenvolvimento. Player com progresso e waveform animados.">
-
-<sub>🎧 Os controles do player são apenas visuais e não são clicáveis.</sub>
 
 <br><br>
 
@@ -37,12 +31,6 @@
 ## 🐙 GITHUB STATS
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HenriqueYamada&theme=github_dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HenriqueYamada&theme=github">
-    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HenriqueYamada&theme=github_dark" alt="Contribuições e repositórios públicos de HenriqueYamada">
-  </picture>
-  <br>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HenriqueYamada&theme=github_dark">
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HenriqueYamada&theme=github">
