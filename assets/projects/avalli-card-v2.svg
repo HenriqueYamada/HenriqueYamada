@@ -6,7 +6,7 @@
   <path d="M160 84 L160 118 L187 101 Z" fill="#F0F6FC"/>
   <g font-family="Segoe UI,Arial,sans-serif">
     <text x="24" y="235" font-size="22" font-weight="700" fill="#F0F6FC">Avalli</text>
-    <text x="24" y="274" font-size="15" fill="#C9D1D9"><tspan x="24">Plataforma para avaliar eventos</tspan><tspan x="24" dy="24">e compreender a percepção</tspan><tspan x="24" dy="24">do público por meio de perguntas.</tspan></text>
+    <text x="24" y="274" font-size="17" fill="#C9D1D9"><tspan x="24">Plataforma para avaliar eventos</tspan><tspan x="24" dy="26">e compreender a percepção</tspan><tspan x="24" dy="26">do público por meio de perguntas.</tspan></text>
     <rect x="20" y="378" width="142" height="42" rx="10" fill="#21262D" stroke="#8B949E"/>
     <text x="91" y="405" text-anchor="middle" font-size="16" font-weight="600" fill="#F0F6FC">Visitar site</text>
   </g>

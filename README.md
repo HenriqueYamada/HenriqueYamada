@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="./assets/about-v4.svg" width="100%" alt="Sobre mim">
+<img src="./assets/about-v5.svg" width="100%" alt="Sobre mim">
 
 </div>
 
@@ -17,11 +17,11 @@
 ## PROJETOS EM DESTAQUE
 
 <div align="center">
-  <a href="https://henriqueyamada.github.io/Projeto-FHD-Music/"><img src="./assets/projects/fhd-card-v4.svg" width="30%" alt="FHD Music — Visitar site"></a>
+  <a href="https://henriqueyamada.github.io/Projeto-FHD-Music/"><img src="./assets/projects/fhd-card-v5.svg" width="30%" alt="FHD Music — site fictício — Visitar site"></a>
   &nbsp;&nbsp;
-  <a href="https://avalli.fema.edu.br"><img src="./assets/projects/avalli-card.svg" width="30%" alt="Avalli — Visitar site"></a>
+  <a href="https://avalli.fema.edu.br"><img src="./assets/projects/avalli-card-v2.svg" width="30%" alt="Avalli — Visitar site"></a>
   &nbsp;&nbsp;
-  <a href="https://institutoibra.org"><img src="./assets/projects/ibra-card.svg" width="30%" alt="IBRA — Visitar site"></a>
+  <a href="https://institutoibra.org"><img src="./assets/projects/ibra-card-v2.svg" width="30%" alt="IBRA — Visitar site"></a>
 </div>
 
 <div align="center">
@@ -67,7 +67,7 @@
 ## CONTATOS
 
 <div align="center">
-  <p>Se quiser conversar sobre projetos, trocar ideias ou conhecer possíveis oportunidades, fique à vontade para entrar em contato.</p>
+  <h4>Se quiser conversar sobre projetos, trocar ideias ou conhecer possíveis oportunidades, fique à vontade para entrar em contato.</h4>
   <br>
   <a href="https://www.linkedin.com/in/henrique-yuji-yamada/"><img src="./assets/skills/LinkedIn.svg" width="64" alt="LinkedIn"></a>
   &nbsp;&nbsp;
