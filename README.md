@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./assets/hero-v4.svg" width="100%" alt="Player musical de Henrique Yuji Yamada — Full-Stack Developer em desenvolvimento. Contador, progresso e waveform animados.">
+<img src="./assets/hero-v5.svg" width="100%" alt="Player musical de Henrique Yuji Yamada — Full-Stack Developer em desenvolvimento. Contador, progresso e waveform animados.">
 
 <br>
 
-<img src="./assets/about-v3.svg" width="100%" alt="Sobre mim">
+<img src="./assets/about-v4.svg" width="100%" alt="Sobre mim">
 
 </div>
 
@@ -17,11 +17,11 @@
 ## PROJETOS EM DESTAQUE
 
 <div align="center">
-  <a href="https://github.com/HenriqueYamada/Projeto-FHD-Music"><img src="./assets/projects/fhd-card-v3.svg" width="30%" alt="FHD Music — Ver projeto"></a>
+  <a href="https://henriqueyamada.github.io/Projeto-FHD-Music/"><img src="./assets/projects/fhd-card-v4.svg" width="30%" alt="FHD Music — Visitar site"></a>
   &nbsp;&nbsp;
-  <img src="./assets/projects/cartas-card.svg" width="30%" alt="Cartas Alicerçadas — Link em breve">
+  <a href="https://avalli.fema.edu.br"><img src="./assets/projects/avalli-card.svg" width="30%" alt="Avalli — Visitar site"></a>
   &nbsp;&nbsp;
-  <img src="./assets/projects/jornada-card.svg" width="30%" alt="Jornada Viagens — Link em breve">
+  <a href="https://institutoibra.org"><img src="./assets/projects/ibra-card.svg" width="30%" alt="IBRA — Visitar site"></a>
 </div>
 
 <div align="center">
